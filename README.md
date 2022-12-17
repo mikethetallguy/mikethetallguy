@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikethetallguy
-- 👀 I’m interested in learning how to become a Data Scientist.
-- 🌱 I’m currently learning Python and how to use Github
+- 👀 I’m interested in using Data effectively to communicate and reach goals.
+- 🌱 I’m currently creating a portfolio in order to find a job.
 - 📫 How to reach me mike.bischak9@gmail.com.
 
 <!---
